@@ -3,7 +3,7 @@
     "width": 800,
     "height": 450,
     "background":"lightblue",
-    "title": "Average Annual Temperature in Australia",
+    "title": "Average Annual Maximum Temperature in Australia",
     "projection": {"type": "mercator"},
     "layer": [
     {
